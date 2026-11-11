@@ -12,7 +12,7 @@
 <h1 align="center">DataCraft</h1>
 
 <p align="center">
-  <b>Databases and data; an open-source, modern Microsoft Access-compatible desktop database development tool, built in pure Rust.<b>
+  <b>An open-source, modern Microsoft Access-compatible desktop database development tool, built in pure Rust.<b>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img alt="Written in Rust" src="https://img.shields.io/badge/written%20in-C%23-662e9a?style=flat-square&logo=rust&logoColor=white">
+  <img alt="Written in Rust" src="https://img.shields.io/badge/written%20in-Rust-662e9a?style=flat-square&logo=rust&logoColor=white">
   <img alt="Runs on Windows" src="https://img.shields.io/badge/runs%20on-Windows-1f9d55?style=flat-square&logo=windows&logoColor=white">
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-147a40?style=flat-square">
   <img alt="Agent-drivable over MCP" src="https://img.shields.io/badge/agents-MCP-1f9d55?style=flat-square">
