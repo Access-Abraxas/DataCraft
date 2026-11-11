@@ -1,6 +1,7 @@
+
 <p align="center">
   <a href="https://github.com/storytold/datacraft">
-    <img alt="DataCraft" src="https://github.com/Access-Abraxas/DataCraft/blob/main/assets/app-icon/datacraft_icon.png?raw=true" width="200" alt="DataCraft icon: An Microsoft Access database compatible desktop database development tool">
+    <img alt="DataCraft" src="https://github.com/storytold/deckcraft/raw/main/docs/brand/artcraft-logo.svg" width="200" alt="DataCraft icon: An Microsoft Access database compatible desktop database development tool">
   </a>
 </p>
 
