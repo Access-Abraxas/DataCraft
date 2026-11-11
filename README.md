@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/storytold/datacraft">
-    <img alt="DataCraft" src="assets/app-icon/hicolor/256x256/apps/DataCraft_Icon.png" width="200" alt="DataCraft icon: An Microsoft Access database compatible desktop database development tool">
+    <img alt="DataCraft" src="https://github.com/Access-Abraxas/DataCraft/blob/main/assets/app-icon/datacraft_icon.png?raw=true" width="200" alt="DataCraft icon: An Microsoft Access database compatible desktop database development tool">
   </a>
 </p>
 
 <p align="center">
-  <img src="assets/app-icon/hicolor/256x256/apps/DataCraft_Icon.png" width="128" height="128" alt="DataCraft icon: An Microsoft Access database compatible desktop database development tool">
+  <img src="https://github.com/Access-Abraxas/DataCraft/blob/main/assets/app-icon/datacraft_icon.png?raw=true" width="128" height="128" alt="DataCraft icon: An Microsoft Access database compatible desktop database development tool">
 </p>
 
 <h1 align="center">DataCraft</h1>
