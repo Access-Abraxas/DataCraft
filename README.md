@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/storytold/datacraft">
-    <img alt="DataCraft" src="assets/app-icon/hicolor/256x256/apps/Access_Database_Help_Icon.png" width="200">
+    <img alt="DataCraft" src="assets/app-icon/hicolor/256x256/apps/DataCraft_Icon.png" width="200" alt="DataCraft icon: An Microsoft Access database compatible desktop database development tool">
   </a>
 </p>
 
 <p align="center">
-  <img src="assets/app-icon/hicolor/256x256/apps/Access_Database_Help_Icon.png" width="128" height="128" alt="DataCraft icon: an Access database icon on a teal tile">
+  <img src="assets/app-icon/hicolor/256x256/apps/DataCraft_Icon.png" width="128" height="128" alt="DataCraft icon: An Microsoft Access database compatible desktop database development tool">
 </p>
 
 <h1 align="center">DataCraft</h1>
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img alt="Written in C#" src="https://img.shields.io/badge/written%20in-C%23-662e9a?style=flat-square&logo=csharp&logoColor=white">
+  <img alt="Written in Rust" src="https://img.shields.io/badge/written%20in-C%23-662e9a?style=flat-square&logo=rust&logoColor=white">
   <img alt="Runs on Windows" src="https://img.shields.io/badge/runs%20on-Windows-1f9d55?style=flat-square&logo=windows&logoColor=white">
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-147a40?style=flat-square">
   <img alt="Agent-drivable over MCP" src="https://img.shields.io/badge/agents-MCP-1f9d55?style=flat-square">
